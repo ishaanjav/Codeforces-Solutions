@@ -1,3 +1,9 @@
+/*
+ * Created by ishaanjav
+ * github.com/ishaanjav
+ * Codeforces Solutions: https://github.com/ishaanjav/Codeforces-Solutions
+ */
+
 fun main() {
     repeat(readLine()!!.toInt()){
         val n = readLine()!!.toInt()
